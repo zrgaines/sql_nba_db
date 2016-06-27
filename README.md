@@ -33,3 +33,7 @@ Figure out the appropriate SQL commands to find out the following, and keep trac
 7. The average age for all players who played more than 40 games
 8. The team and total points scored from all players on that team (team points), ordered from most team points to least
 (http://www.w3schools.com/sql/sql_func_sum.asp)(http://www.w3schools.com/sql/sql_groupby.asp)
+
+### Bonus
+1. Age and the average points per game for that age, ordered from youngest to oldest
+2. Team and the the number of players who score above 12 points per game on that team, ordered from most to least
